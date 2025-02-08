@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to the GetObject function and provides a solution for more robust error handling.  The GetObject function can fail silently if the object creation fails, causing unexpected behavior or crashes. The solution implements more comprehensive error checks and handling to prevent these issues.
